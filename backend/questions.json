@@ -1,0 +1,19 @@
+[
+  {"q": "How much does a plot cost for residents?", "expected": "$45"},
+  {"q": "How much does a plot cost for non-residents?", "expected": "$70"},
+  {"q": "How big is each plot?", "expected": "4 meters by 2 meters"},
+  {"q": "How many households are on the waiting list?", "expected": "38"},
+  {"q": "How long is the average wait for a plot?", "expected": "14 months"},
+  {"q": "How many kilograms of vegetables were harvested in 2026?", "expected": "3,400"},
+  {"q": "What percentage of watering comes from rainwater?", "expected": "60 percent"},
+  {"q": "When is the garden open?", "expected": "7 a.m."},
+  {"q": "How many students were in the youth program?", "expected": "24"},
+  {"q": "How much produce was donated to the food pantry?", "expected": "520"},
+  {"q": "How many new plots will be added in 2027?", "expected": "12 new plots"},
+  {"q": "Will membership fees go up?", "expected": "not be raised", "cite": "not plan to raise"},
+  {"q": "Who won the world cup?", "expected": null},
+  {"q": "What is the capital of France?", "expected": null},
+  {"q": "How many volunteers work at the garden?", "expected": null},
+  {"q": "What is the price of bitcoin?", "expected": null},
+  {"q": "Who is the mayor of Harbor Point?", "expected": null}
+]
